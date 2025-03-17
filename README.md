@@ -26,7 +26,7 @@ Before running the project, ensure you have the following:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/OuniRabie/nodemailer-handlebars-demo.git
    cd nodemailer-handlebars-demo
 2. Install dependencies:
    ```bash
